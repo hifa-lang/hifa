@@ -1,8 +1,11 @@
 [package]
 name = "hifa"
 version = "0.0.1"
+license = "MIT OR Apache-2.0"
+homepage = "https://hifa-lang.org"
+repository = "https://github.com/hifa-lang/hifa.git"
+description = "Hifa Language"
+readme = "README.md"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
